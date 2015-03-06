@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = https://github.com/kirjs/react-presentation-demo.git
+	branch = gh-pages

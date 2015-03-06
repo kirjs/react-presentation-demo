@@ -1,0 +1,23 @@
+{
+  "name": "react-presentation-demo",
+  "version": "1.0.0",
+  "description": "This is a demo of react-presentation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "webpack --config webpack.config.build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "open": "0.0.5",
+    "react": "^0.12.2",
+    "react-hot-loader": "^1.1.7",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "react-presentation": "0.0.4"
+  }
+}
