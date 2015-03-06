@@ -181,7 +181,7 @@
 		if(true)
 			module.exports = factory(__webpack_require__(5), __webpack_require__(2));
 		else if(typeof define === 'function' && define.amd)
-			define(["react/addons", "react"], factory);
+			define(["../../node_modules/react-hot-loader/node_modules/react/addons", "react"], factory);
 		else if(typeof exports === 'object')
 			exports["Presentation"] = factory(require("react/addons"), require("react"));
 		else
