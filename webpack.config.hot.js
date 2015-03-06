@@ -2,8 +2,7 @@ var webpack = require('webpack');
 
 var serverConfig = {
   host: 'localhost',
-  port: 3007,
-  path: 'dist/'
+  port: 3007
 };
 var config = {
   watch: true,

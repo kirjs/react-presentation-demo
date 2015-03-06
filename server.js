@@ -4,8 +4,9 @@ var config = require('./webpack.config.hot.js');
 var open = require('open');
 
 new WebpackDevServer(webpack(config), {
-  publicPath: config.server.path,
+  publicPath: '/js/',
   contentBase: './dist',
+  filename: config.output.filename,
   hot: true
 }).listen(config.server.port, 'localhost', function (err, result) {
     if (err) {
