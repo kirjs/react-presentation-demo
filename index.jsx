@@ -29,86 +29,20 @@ React.render(
         <li>Example</li>
       </ul>
     </Slide>
+    <Slide>
+      <h1>Some Text</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
+    </Slide>
+    <Slide>
+      <h1>Videos</h1>
+      <iframe
+        width="1120"
+        height="660"
+        src="https://www.youtube.com/embed/7rDsRXj9-cU"
+        frameborder="0" allowfullscreen
+      ></iframe>
 
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
     </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
-    <Slide>
-      <h1>Some Text</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cumque dolore ea est fugit, itaque nemo recusandae! Aperiam beatae consequuntur corporis eum, incidunt iste laborum minima mollitia necessitatibus numquam omnis!</p>
-    </Slide>
+
   </Presentation>
   , document.body);
